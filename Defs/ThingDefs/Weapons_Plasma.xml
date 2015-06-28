@@ -103,17 +103,17 @@
       <AccuracyShort>0.70</AccuracyShort>
       <AccuracyMedium>0.50</AccuracyMedium>
       <AccuracyLong>0.32</AccuracyLong>
-      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>1.26</RangedWeapon_Cooldown>
     </statBases>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>54</warmupTicks>
-        <range>24</range>
+        <warmupTicks>90</warmupTicks>
+        <range>26</range>
         <burstShotCount>2</burstShotCount>
-        <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+        <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Light</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
@@ -137,17 +137,17 @@
       <AccuracyShort>0.92</AccuracyShort>
       <AccuracyMedium>0.72</AccuracyMedium>
       <AccuracyLong>0.59</AccuracyLong>
-      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>1.26</RangedWeapon_Cooldown>
     </statBases>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>45</warmupTicks>
-        <range>24</range>
+        <warmupTicks>120</warmupTicks>
+        <range>28</range>
         <burstShotCount>4</burstShotCount>
-        <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+        <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Light</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
@@ -171,17 +171,17 @@
       <AccuracyShort>0.87</AccuracyShort>
       <AccuracyMedium>0.77</AccuracyMedium>
       <AccuracyLong>0.64</AccuracyLong>
-      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>1.26</RangedWeapon_Cooldown>
     </statBases>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>90</warmupTicks>
+        <warmupTicks>130</warmupTicks>
         <range>32</range>
         <burstShotCount>4</burstShotCount>
-        <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+        <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
@@ -205,17 +205,17 @@
       <AccuracyShort>0.64</AccuracyShort>
       <AccuracyMedium>0.41</AccuracyMedium>
       <AccuracyLong>0.22</AccuracyLong>
-      <RangedWeapon_Cooldown>1.33</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>1.93</RangedWeapon_Cooldown>
     </statBases>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>100</warmupTicks>
-        <range>21</range>
+        <warmupTicks>140</warmupTicks>
+        <range>24</range>
         <burstShotCount>7</burstShotCount>
-        <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+        <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Heavy</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
@@ -239,17 +239,17 @@
       <AccuracyShort>0.86</AccuracyShort>
       <AccuracyMedium>0.86</AccuracyMedium>
       <AccuracyLong>0.88</AccuracyLong>
-      <RangedWeapon_Cooldown>2.33</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>2.93</RangedWeapon_Cooldown>
     </statBases>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>240</warmupTicks>
+        <warmupTicks>280</warmupTicks>
         <burstShotCount>3</burstShotCount>
-        <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
-        <range>45</range>
+        <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
+        <range>47</range>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Heavy</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
@@ -276,15 +276,15 @@
       <AccuracyShort>0.87</AccuracyShort>
       <AccuracyMedium>0.77</AccuracyMedium>
       <AccuracyLong>0.64</AccuracyLong>
-      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>1.9</RangedWeapon_Cooldown>
     </statBases>
     <verbs>
       <li>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>90</warmupTicks>
-        <range>17</range>
+        <warmupTicks>130</warmupTicks>
+        <range>18</range>
         <burstShotCount>3</burstShotCount>
         <ticksBetweenBurstShots>0</ticksBetweenBurstShots>
         <soundCast>PlasmaShot</soundCast>
@@ -310,7 +310,7 @@
       <AccuracyShort>0.42</AccuracyShort>
       <AccuracyMedium>0.18</AccuracyMedium>
       <AccuracyLong>0.06</AccuracyLong>
-      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>2.36</RangedWeapon_Cooldown>
     </statBases>
     <techLevel>Spacer</techLevel>
     <weaponTags>
@@ -328,7 +328,7 @@
         <warmupTicks>240</warmupTicks>
         <range>30</range>
         <burstShotCount>25</burstShotCount>
-        <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
+        <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>

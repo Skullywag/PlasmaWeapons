@@ -102,7 +102,7 @@
       <AccuracyShort>0.50</AccuracyShort>
       <AccuracyMedium>0.65</AccuracyMedium>
       <AccuracyLong>0.65</AccuracyLong>
-      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <RangedWeapon_Cooldown>2.33</RangedWeapon_Cooldown>
     </statBases>
     <weaponTags>
       <li>TurretGun</li>
@@ -112,10 +112,10 @@
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_PlasmaTurret</projectileDef>
-        <warmupTicks>20</warmupTicks>
+        <warmupTicks>200</warmupTicks>
         <burstShotCount>10</burstShotCount>
         <ticksBetweenBurstShots>7</ticksBetweenBurstShots>
-        <range>25.9</range>
+        <range>48</range>
         <soundCast>PlasmaShot</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>12</muzzleFlashScale>
