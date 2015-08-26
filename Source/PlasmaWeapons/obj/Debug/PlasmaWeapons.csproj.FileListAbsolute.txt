@@ -3,3 +3,13 @@ C:\Users\mjsku_000\Desktop\RimWorldAlpha11Win\RimWorld834Win\Mods\PlasmaWeapons\
 C:\Users\mjsku_000\Desktop\RimWorldAlpha11Win\RimWorld834Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
 C:\Users\mjsku_000\Desktop\RimWorldAlpha11Win\RimWorld834Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
 C:\Users\mjsku_000\Desktop\RimWorldAlpha11Win\RimWorld834Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
