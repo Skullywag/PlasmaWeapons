@@ -2,7 +2,7 @@
 <GameData>
 
 
-  <ThingDef Name="ResourceBase" Abstract="True">
+  <ThingDef Name="ResourceBaseNoRecipe" Abstract="True">
     <thingClass>ThingWithComps</thingClass>
     <label>unspecified resource</label>
     <category>Item</category>
@@ -25,12 +25,12 @@
     <pathCost>15</pathCost>
   </ThingDef>
 
-  <ThingDef ParentName="ResourceBase">
+  <ThingDef ParentName="ResourceBaseNoRecipe">
     <defName>PlasmaCell</defName>
     <label>Plasma Cell</label>
     <description>A cell storing condensed plasma particles.</description>
     <graphicData>
-      <texPath>Things/Item/Resource/PlasmaCell</texPath>
+      <texPath>Things/Item/Resource/Plasmabox</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <resourceReadoutPriority>Middle</resourceReadoutPriority>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+ 
+	<ResearchProjectDef>
+		<defName>PlasmaTurrets</defName>
+		<label>large scale plasma tech</label>
+		<description>Allows the construction of plasma turrets.</description>
+		<totalCost>1300</totalCost>
+		<prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+	</ResearchProjectDef>
+
+</ResearchProjectDefs>
