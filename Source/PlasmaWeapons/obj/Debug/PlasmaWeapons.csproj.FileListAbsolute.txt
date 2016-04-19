@@ -13,3 +13,31 @@ C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\
 C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
 C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
 C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\Community Core Library.dll
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\Community Core Library.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\PlasmaWeapons.pdb
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\bin\Debug\Community Core Library.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.csprojResolveAssemblyReference.cache
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\PlasmaWeapons\Source\PlasmaWeapons\obj\Debug\PlasmaWeapons.pdb
