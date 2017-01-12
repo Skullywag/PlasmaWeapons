@@ -18,12 +18,13 @@
       <MaxHitPoints>100</MaxHitPoints>
       <Flammability>1.0</Flammability>
       <DeteriorationRate>2</DeteriorationRate>
-      <SellPriceFactor>0.5</SellPriceFactor>
+      <Beauty>-6</Beauty>
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
     <tickerType>Never</tickerType>
-    <techLevel>Midworld</techLevel>
+    <techLevel>Industrial</techLevel>
+    <smeltable>true</smeltable>
     <thingCategories>
       <li>WeaponsRanged</li>
     </thingCategories>
@@ -44,9 +45,6 @@
         <minQualityForArtistic>Excellent</minQualityForArtistic>
       </li>
     </comps>
-    <smeltProducts>
-      <Steel>20</Steel>
-    </smeltProducts>
   </ThingDef>
 
   <ThingDef Name="BaseMakeableGun" ParentName="BaseGun" Abstract="True">
@@ -136,15 +134,15 @@
     <costList>
       <Steel>50</Steel>
       <Plasteel>20</Plasteel>
-      <Components>2</Components>
+      <Component>2</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>90</warmupTicks>
+        <warmupTime>0.3</warmupTime>
         <range>22</range>
         <burstShotCount>2</burstShotCount>
         <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
@@ -153,13 +151,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>7</roundPerMag>
-        <reloadTick>180</reloadTick>
-      </li>
-    </comps>
   </ThingDef>
 
   <!-- ========================================================= -->
@@ -183,15 +174,15 @@
     <costList>
       <Steel>60</Steel>
       <Plasteel>30</Plasteel>
-      <Components>3</Components>
+      <Component>3</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>120</warmupTicks>
+        <warmupTime>0.5</warmupTime>
         <range>26</range>
         <burstShotCount>4</burstShotCount>
         <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
@@ -200,13 +191,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>20</roundPerMag>
-        <reloadTick>190</reloadTick>
-      </li>
-    </comps>
   </ThingDef>
   
   <!-- =================================================== -->
@@ -230,15 +214,15 @@
     <costList>
       <Steel>70</Steel>
       <Plasteel>40</Plasteel>
-      <Components>4</Components>
+      <Component>4</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>130</warmupTicks>
+        <warmupTime>0.9</warmupTime>
         <range>28</range>
         <burstShotCount>4</burstShotCount>
         <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
@@ -247,13 +231,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>30</roundPerMag>
-        <reloadTick>190</reloadTick>
-      </li>
-    </comps>
   </ThingDef>
   
   <!-- ============================================================== -->
@@ -277,15 +254,15 @@
     <costList>
       <Steel>60</Steel>
       <Plasteel>30</Plasteel>
-      <Components>4</Components>
+      <Component>4</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>140</warmupTicks>
+        <warmupTime>1.4</warmupTime>
         <range>22</range>
         <burstShotCount>7</burstShotCount>
         <ticksBetweenBurstShots>14</ticksBetweenBurstShots>
@@ -294,13 +271,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>100</roundPerMag>
-        <reloadTick>300</reloadTick>
-      </li>
-    </comps>
   </ThingDef>
 
   <!-- ============================================================== -->
@@ -324,15 +294,15 @@
     <costList>
       <Steel>90</Steel>
       <Plasteel>40</Plasteel>
-      <Components>6</Components>
+      <Component>6</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>280</warmupTicks>
+        <warmupTime>4.0</warmupTime>
         <burstShotCount>3</burstShotCount>
         <ticksBetweenBurstShots>8</ticksBetweenBurstShots>
         <range>44</range>
@@ -341,13 +311,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>3</roundPerMag>
-        <reloadTick>200</reloadTick>
-      </li>
-    </comps>
     <weaponTags>
       <li>SniperRifle</li>
     </weaponTags>
@@ -374,15 +337,15 @@
     <costList>
       <Steel>70</Steel>
       <Plasteel>30</Plasteel>
-      <Components>4</Components>
+      <Component>4</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
-        <warmupTicks>130</warmupTicks>
+        <warmupTime>0.9</warmupTime>
         <range>18</range>
         <burstShotCount>3</burstShotCount>
         <ticksBetweenBurstShots>0</ticksBetweenBurstShots>
@@ -391,13 +354,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>18</roundPerMag>
-        <reloadTick>240</reloadTick>
-      </li>
-    </comps>
   </ThingDef>
   
   <!--===================================================-->
@@ -421,7 +377,7 @@
     <costList>
       <Steel>120</Steel>
       <Plasteel>50</Plasteel>
-      <Components>6</Components>
+      <Component>6</Component>
       <PlasmaCell>1</PlasmaCell>
     </costList>
     <techLevel>Spacer</techLevel>
@@ -433,11 +389,11 @@
     </equippedStatOffsets>
     <verbs>
       <li>
-        <verbClass>PlasmaWeapons.Verb_ShootReload</verbClass>
+        <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_Plasma</projectileDef>
         <forcedMissRadius>2.4</forcedMissRadius>
-        <warmupTicks>240</warmupTicks>
+        <warmupTime>3.0</warmupTime>
         <range>30</range>
         <burstShotCount>25</burstShotCount>
         <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
@@ -446,13 +402,6 @@
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
     </verbs>
-    <comps>
-      <li Class="PlasmaWeapons.CompProperties_Reloader">
-        <compClass>PlasmaWeapons.CompReloader</compClass>
-        <roundPerMag>25</roundPerMag>
-        <reloadTick>240</reloadTick>
-      </li>
-    </comps>
   </ThingDef>
   
 </ThingDefs>

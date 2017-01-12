@@ -3,11 +3,12 @@
  
 	<ResearchProjectDef>
 		<defName>PlasmaTurrets</defName>
-		<label>large scale plasma tech</label>
+		<label>large scale plasma cells</label>
 		<description>Allows the construction of plasma turrets.</description>
-		<totalCost>1300</totalCost>
+		<baseCost>1300</baseCost>
+    <techLevel>Spacer</techLevel>
 		<prerequisites>
-      <li>MicroelectronicsBasics</li>
+      <li>MultibarrelWeapons</li>
     </prerequisites>
 	</ResearchProjectDef>
 

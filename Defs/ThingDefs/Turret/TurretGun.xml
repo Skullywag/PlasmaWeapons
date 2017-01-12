@@ -6,7 +6,7 @@
     <thingClass>PlasmaWeapons.Projectile_Plasma</thingClass>
     <label>Plasma bolt</label>
     <graphicData>
-      <texPath>Things/Projectile/Pulse2</texPath>
+      <texPath>Things/Projectile/Pulse</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <projectile>
@@ -14,6 +14,14 @@
       <damageAmountBase>8</damageAmountBase>
       <speed>70</speed>
     </projectile>
+    <comps>
+      <li Class="PlasmaWeapons.CompProperties_ExtraDamage">
+        <compClass>PlasmaWeapons.CompExtraDamage</compClass>
+        <damageDef>Flame</damageDef>
+        <damageAmount>15</damageAmount>
+        <chanceToProc>0.1</chanceToProc>
+      </li>
+    </comps>
   </ThingDef>
 
   <ThingDef ParentName="BaseHumanGun">
@@ -43,7 +51,7 @@
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <projectileDef>Bullet_PlasmaTurret</projectileDef>
-        <warmupTicks>200</warmupTicks>
+        <warmupTime>1.5</warmupTime>
         <burstShotCount>10</burstShotCount>
         <ticksBetweenBurstShots>7</ticksBetweenBurstShots>
         <range>48</range>
